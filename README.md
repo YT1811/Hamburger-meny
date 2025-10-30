@@ -1,6 +1,6 @@
 # 🍔 Yoel’s Smashburgere
 
-Et responsivt nettsideprosjekt laget med **HTML, CSS og JavaScript** som viser frem en burgerrestaurant med moderne design, animert navigasjonsmeny og et tydelig fokus på brukeropplevelse.
+Et responsivt nettsideprosjekt laget med **HTML, CSS og JavaScript** som viser frem en burgerrestaurant med moderne design og animert navigasjonsmeny.
 
 ---
 
